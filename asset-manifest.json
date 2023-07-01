@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dresshop/static/css/main.2d3cf8b9.css",
-    "main.js": "/dresshop/static/js/main.3c2fac89.js",
+    "main.css": "/dresshop/static/css/main.f7d00084.css",
+    "main.js": "/dresshop/static/js/main.2d5f467c.js",
     "static/media/The Chloé Spring-Summer 2017 Campaign.mp4": "/dresshop/static/media/The Chloé Spring-Summer 2017 Campaign.ebdec7f873a6ece97575.mp4",
     "static/media/t-shirt.webp": "/dresshop/static/media/t-shirt.5f4c18f1479042bf9aca.webp",
     "static/media/slider-2.jpg": "/dresshop/static/media/slider-2.82cdd099a3ae1a67d33a.jpg",
@@ -38,6 +38,7 @@
     "static/media/banner3-1.jpg": "/dresshop/static/media/banner3-1.0b9c7fb276b796fafb63.jpg",
     "static/media/womenTop.jpg": "/dresshop/static/media/womenTop.46e9099dcaf652f62f38.jpg",
     "static/media/t-shirt_08.webp": "/dresshop/static/media/t-shirt_08.b895e41e5dcdda623886.webp",
+    "static/media/accessories.png": "/dresshop/static/media/accessories.d495567b8c15ac81a442.png",
     "static/media/womenShoes.jpg": "/dresshop/static/media/womenShoes.b49e8c098742cb38c5ff.jpg",
     "static/media/hoodie.jpg": "/dresshop/static/media/hoodie.66a520576610ebd6f789.jpg",
     "static/media/jeans.jpg": "/dresshop/static/media/jeans.b832f9f07e674492bde8.jpg",
@@ -45,6 +46,7 @@
     "static/media/menShoes.jpg": "/dresshop/static/media/menShoes.4f079a212e40c73253f8.jpg",
     "static/media/banner2-1.jpg": "/dresshop/static/media/banner2-1.717e2803c32e40dba13e.jpg",
     "static/media/amazon.png": "/dresshop/static/media/amazon.41926d0f94aa6475d49c.png",
+    "static/media/life_style.png": "/dresshop/static/media/life_style.dae5e52f568752f92e98.png",
     "static/media/t-shirt_02.webp": "/dresshop/static/media/t-shirt_02.66cee7b2380917972d9a.webp",
     "static/media/shopify.png": "/dresshop/static/media/shopify.286c8236ac636a6b5275.png",
     "static/media/banner4.jpg": "/dresshop/static/media/banner4.a2780f5cbdf89865591d.jpg",
@@ -63,14 +65,13 @@
     "static/media/pair of shoe.jpg": "/dresshop/static/media/pair of shoe.eeed9a554d4548f45bc6.jpg",
     "static/media/womenDress.jpg": "/dresshop/static/media/womenDress.4e942fd6c4e7f35175d6.jpg",
     "static/media/bag.jpg": "/dresshop/static/media/bag.c6a9c2ed19e0d3bd8519.jpg",
-    "static/media/bag.png": "/dresshop/static/media/bag.51b76de6f9a9c6ef52b1.png",
     "static/media/obey.png": "/dresshop/static/media/obey.bb1ead28951be7f6cc2a.png",
     "index.html": "/dresshop/index.html",
-    "main.2d3cf8b9.css.map": "/dresshop/static/css/main.2d3cf8b9.css.map",
-    "main.3c2fac89.js.map": "/dresshop/static/js/main.3c2fac89.js.map"
+    "main.f7d00084.css.map": "/dresshop/static/css/main.f7d00084.css.map",
+    "main.2d5f467c.js.map": "/dresshop/static/js/main.2d5f467c.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d3cf8b9.css",
-    "static/js/main.3c2fac89.js"
+    "static/css/main.f7d00084.css",
+    "static/js/main.2d5f467c.js"
   ]
 }
