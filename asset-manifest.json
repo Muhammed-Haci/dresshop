@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dresshop/static/css/main.f7d00084.css",
-    "main.js": "/dresshop/static/js/main.9def02e9.js",
+    "main.js": "/dresshop/static/js/main.6716a121.js",
     "static/media/The Chloé Spring-Summer 2017 Campaign.mp4": "/dresshop/static/media/The Chloé Spring-Summer 2017 Campaign.ebdec7f873a6ece97575.mp4",
     "static/media/t-shirt.webp": "/dresshop/static/media/t-shirt.5f4c18f1479042bf9aca.webp",
     "static/media/slider-2.jpg": "/dresshop/static/media/slider-2.82cdd099a3ae1a67d33a.jpg",
@@ -68,10 +68,10 @@
     "static/media/obey.png": "/dresshop/static/media/obey.bb1ead28951be7f6cc2a.png",
     "index.html": "/dresshop/index.html",
     "main.f7d00084.css.map": "/dresshop/static/css/main.f7d00084.css.map",
-    "main.9def02e9.js.map": "/dresshop/static/js/main.9def02e9.js.map"
+    "main.6716a121.js.map": "/dresshop/static/js/main.6716a121.js.map"
   },
   "entrypoints": [
     "static/css/main.f7d00084.css",
-    "static/js/main.9def02e9.js"
+    "static/js/main.6716a121.js"
   ]
 }
